@@ -1,6 +1,8 @@
 # IRC-Java
 A simple Java library for IRC, developed by SwagiWagi.
 
+This is mainly a showcase for a simple OOP structure.
+
 # Usage
 Create a new "IRC" object, and initialize it using the "IRCBuilder" class.<br />
 The parameters are:<br />
